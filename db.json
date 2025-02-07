@@ -1,0 +1,140 @@
+{
+  "enquiry": [
+    {
+      "firstName": "smita",
+      "lastName": "mane",
+      "email": "sajbf@gmauk",
+      "mobile": "9136381655",
+      "weight": "50",
+      "height": "1.49",
+      "bmi": 22.52150804017837,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymbefore": "No",
+      "enquiryDate": "2024-01-23T18:30:00.000Z",
+      "id": "d0ec"
+    },
+    {
+      "firstName": "adsad",
+      "lastName": "dada",
+      "email": "zsdc",
+      "mobile": "12536489",
+      "weight": "52",
+      "height": "25",
+      "bmi": 0.0832,
+      "bmiResult": "Under Weight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Sugar Craving body"
+      ],
+      "haveGymbefore": "Yes",
+      "enquiryDate": "2024-01-18T18:30:00.000Z",
+      "id": "86c7"
+    },
+    {
+      "id": "79f6",
+      "firstName": "ffccxx",
+      "lastName": "sfdg",
+      "email": "sfs",
+      "mobile": "1258963475",
+      "weight": "20",
+      "height": "1",
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymbefore": "Yes",
+      "enquiryDate": "2024-01-09T18:30:00.000Z"
+    },
+    {
+      "id": "90b6",
+      "firstName": "Akanksha",
+      "lastName": "Shahane",
+      "email": "akankshashahane2003@gmail.com",
+      "mobile": "1253698741",
+      "weight": "61",
+      "height": "1.58",
+      "bmi": 24.435186668803073,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymbefore": "No",
+      "enquiryDate": "2024-01-16T18:30:00.000Z"
+    },
+    {
+      "id": "01ea",
+      "firstName": "Abhishek",
+      "lastName": "Yadav",
+      "email": "abhishek50117@gmail.com",
+      "mobile": "9326196418",
+      "weight": "50",
+      "height": "1.66",
+      "bmi": 18.144868631151112,
+      "bmiResult": "Under Weight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymbefore": "No",
+      "enquiryDate": "2024-01-17T18:30:00.000Z"
+    },
+    {
+      "id": "98b9",
+      "firstName": "Dheeraj",
+      "lastName": "Jadhav",
+      "email": "dheerajjadhav@apple.com",
+      "mobile": "9421448290",
+      "weight": "50",
+      "height": "1.64",
+      "bmi": 18.590124925639504,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Sugar Craving body"
+      ],
+      "haveGymbefore": "No",
+      "enquiryDate": "2024-01-23T18:30:00.000Z"
+    },
+    {
+      "id": "bc32",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymbefore": "",
+      "enquiryDate": ""
+    }
+  ]
+}

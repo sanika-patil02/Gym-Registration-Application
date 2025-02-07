@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\Models\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\Controllers\\RegiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymRegistrationAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\Test.cs",
+              "RelativeToolTip": "GymRegistrationAPI\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:35:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegiController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegiController.cs",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\Controllers\\RegiController.cs",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegiController.cs",
+              "RelativeToolTip": "GymRegistrationAPI\\Controllers\\RegiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:35:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "GymRegistrationAPI\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:35:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Models\\User.cs",
+              "RelativeToolTip": "GymRegistrationAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:35:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\appsettings.json",
+              "RelativeToolTip": "GymRegistrationAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T15:35:49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "GymRegistrationAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Sanika\\OneDrive\\Desktop\\Sahyadri\\Angular--main\\GymRegistrationAPI\\GymRegistrationAPI\\Startup.cs",
+              "RelativeToolTip": "GymRegistrationAPI\\Startup.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:35:49.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

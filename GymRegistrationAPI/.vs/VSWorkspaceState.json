@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GymRegistrationAPI",
+    "\\GymRegistrationAPI\\Controllers",
+    "\\GymRegistrationAPI\\Models",
+    "\\GymRegistrationAPI\\Properties"
+  ],
+  "SelectedNode": "\\GymRegistrationAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
