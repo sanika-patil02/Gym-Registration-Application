@@ -1,0 +1,21 @@
+create database GymRegistration;
+use GymRegistration;
+
+CREATE TABLE gymRegisteredUser (
+    gymRegisteredUser_pk INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    firstName VARCHAR(255) NULL,
+    lastName VARCHAR(255) NULL,
+    email VARCHAR(255) NULL,
+    mobile VARCHAR(255) NULL,
+    weight VARCHAR(255) NULL,
+    height VARCHAR(255) NULL,
+    bmi VARCHAR(255) NULL,
+    bmiResult VARCHAR(255) NULL,
+    gender VARCHAR(255) NULL,
+    requireTrainer VARCHAR(255) NULL,
+    package VARCHAR(255) NULL,
+    haveGymBefore VARCHAR(255) NULL,
+    enquiryDate VARCHAR(255) NULL
+);
+
+select * from gymRegisteredUser;
